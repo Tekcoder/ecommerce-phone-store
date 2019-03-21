@@ -1,3 +1,5 @@
+This is the link to the project on netlify https://react-marketplace-phone-store.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
